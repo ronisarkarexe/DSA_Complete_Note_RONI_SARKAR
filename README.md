@@ -1,5 +1,16 @@
 # DSA-Complete-Note
 
+## Sorting Techniques
+
+* Counting Sort
+* Inserting Cort
+* Merge Sort
+* Quick Sort
+* Selection Sort
+* Bubble Sort
+* Bubble Sort wit Function
+
+
 ## C nad C++ Concepts Revision
 
 * array
