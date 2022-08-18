@@ -8,7 +8,7 @@
 * Quick Sort
 * Selection Sort
 * Bubble Sort
-* Bubble Sort wit Function
+* Bubble Sort with Function
 
 
 ## C nad C++ Concepts Revision
