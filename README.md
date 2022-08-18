@@ -14,6 +14,7 @@
 * structure
 * structure as parameter
 
+
 ## Recursion
 
 * static variable in recursion
@@ -34,11 +35,13 @@
 * taylor series using horners
 * tower of hanoi
 
+
 ## Array
 
 * 2D array
 * Array using pointer
 * increasing array size using heap
+
 
 ## Abstrack Data Type ( Array ADT ) Using Structure and Class
 
@@ -81,3 +84,57 @@
 * Finding a pair element of with sum unsorted 0(n square ) {{6,3,8,10,16,7,5,2,9,14},20,10};
 * Finding a pair element of with sum sorted list 0(n)
 * Finding a par element with hash table sorted and unsorted worked as well
+
+
+## String
+
+* Changing case
+* Check for anagram
+* Comparing string and palindrome
+* counting vowels and conconents
+* finging duplicate in string
+* string exc
+* length of string
+* permutations of a string
+* reversing a string
+* validate a string
+* word count
+
+
+## Special Matrix
+
+* Diagonal Matrix
+* Lower row triangle marix
+* Lower colume major formula
+* Upper colume major formula
+* Upper Roe major formula
+* C++ class for diagonal matrix
+* C++ colume major lower triangle
+* C++ lower triangle matrix
+* C++ upper triangle matrix
+* Colume major lower triangle
+* Create sparse matrix
+* Polynomial
+
+## Linked List using ( Struct or Class )
+
+* Create linked list
+* Display linked list
+* Recursion display
+* Length count linked list
+* Recursion length count linked list
+* Add number in linked list
+* Recursion add number in linked list
+* Max number in linked list
+* Recursion max number in linked list
+* Min
+* Recursion Min
+* Liner Search
+* Recursion Liner search
+* Move to head ( imperove liner search )
+* Inserting a number using index in linked list
+* Insert last of linked list
+* Inserting a number in linked list
+* Delete a number using index
+* Check sorted or not
+
